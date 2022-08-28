@@ -5,7 +5,7 @@ module.exports = {
     colors: {
       cloudy: "#CFEAEB",
       gloomy: "#6DA4A3",
-      army: "#6DA4A3",
+      army: "#696E52",
       light: "#FAFAFA",
       dark: "#262626",
     },
